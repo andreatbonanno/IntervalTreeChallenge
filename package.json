@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "devDependencies": {
+    "split": "^1.0.0"
+  }
+}
